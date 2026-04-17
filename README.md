@@ -3,10 +3,21 @@
 AI-Based Healthcare Risk Prediction System
 
 
-Project Overview
+Project Overview :
 
-The AI-Based Healthcare Risk Prediction System is a machine learning project designed to predict the health risk level of patients based on their medical and lifestyle data. The system analyzes key features such as age, gender, blood pressure, cholesterol levels, heart rate, diabetes status, and smoking habits to determine whether a patient is at low, medium, or high risk.
+This is a "Machine Learning project using Python" that predicts patient health risk based on medical and lifestyle data. The goal is to identify high-risk patients early and support better healthcare decisions.
 
-This project uses data preprocessing, exploratory data analysis (EDA), and machine learning algorithms like Logistic Regression, Decision Tree, and Random Forest to build an accurate prediction model. The goal is to assist healthcare professionals in identifying high-risk patients early, enabling timely treatment and better decision-making.
+Key Points :
 
-Overall, this system demonstrates how artificial intelligence can be applied in the healthcare domain to improve patient outcomes and reduce potential health complications.
+1. Built using Python & Scikit-learn.
+2. Performed Data Cleaning & EDA.
+3. Trained models like Logistic Regression & Random Forest.
+4. Identified key factors like BP, Cholesterol, and Smoking.
+
+
+Outcome :
+
+1. Predicted patient risk (Low/High).
+2. Generated insights for healthcare decision-making.
+
+
